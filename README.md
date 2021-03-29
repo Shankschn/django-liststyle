@@ -1,16 +1,14 @@
+## 博客
+www.yudelei.com/242.html
 ## 说明
-在使用前版本时，不清楚是由于还是个人理解错误，还是 Django 或 Python 版本的原因。最终，始终无法设置行颜色。
+在使用前版本时，不清楚是由于还是个人理解错误...还是 Django 或 Python 版本的原因，始终无法设置行颜色。
 
-此次修改：
-× 添加 c-color.css 文件，内含了个人常用的颜色代码。
-× 修改 change_list_results.html 模板，调用静态文件 c-color.css。
-
-如果需自定义颜色，请修改 c-color.css。
+此次修改，使用了笨办法...在 furkankykc 的基础上，添加了静态文件 c-color.css。
+如需自定义颜色，可自行请修改该文件。
 ## 环境
-支持 Python 3.7
-支持 Django 2.2
-与 django-simpeui 兼容
-
+Python 3.7.9
+Django 2.2.17
+django-simpeui 2021.4.1
 ## 安装
 ~~~
 pip install git+https://github.com/Shankschn/django-liststyle.git
@@ -39,9 +37,6 @@ class MyModelAdmin(admin.ModelAdmin, ListStyleAdminMixin):
 			return ''
 		return ''
 ~~~
-### 颜色代码
-
-
 ## 其他说明
 Note: If you have your own change_list_results.html; you'll need to 
 incorporate the changes from the one here. An example of a custom template
