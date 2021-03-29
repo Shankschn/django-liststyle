@@ -1,5 +1,10 @@
 {% load liststyle_tags %}
 {% load i18n static %}
+
+{% block extrastyle %}
+    <link rel="stylesheet" type="text/css" href="{% static "admin/css/c-color.css" %}"/>
+{% endblock %}
+
 {% if result_hidden_fields %}
 <div class="hiddenfields">{# DIV for HTML validation #}
 {% for item in result_hidden_fields %}{{ item }}{% endfor %}

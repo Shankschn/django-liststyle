@@ -1,0 +1,340 @@
+/*
+    Colors
+*/
+
+.c-99FF99{
+    background: #99FF99;
+}
+
+.c-66FF66{
+    background: #66FF66;
+}
+
+.c-33FF33{
+    background: #33FF33;
+}
+
+.c-00FF00{
+    background: #00FF00;
+}
+
+.c-00DD00{
+    background: #00DD00;
+}
+
+.c-00AA00{
+    background: #00AA00;
+}
+
+.c-008800{
+    background: #008800;
+}
+
+.c-BBFFEE{
+    background: #BBFFEE;
+}
+
+.c-77FFCC{
+    background: #77FFCC;
+}
+
+.c-33FFAA{
+    background: #33FFAA;
+}
+
+.c-00FF99{
+    background: #00FF99;
+}
+
+.c-00DD77{
+    background: #00DD77;
+}
+
+.c-00AA55{
+    background: #00AA55;
+}
+
+.c-008844{
+    background: #008844;
+}
+
+.c-AAFFEE{
+    background: #AAFFEE;
+}
+
+.c-77FFEE{
+    background: #77FFEE;
+}
+
+.c-33FFDD{
+    background: #33FFDD;
+}
+
+.c-00FFCC{
+    background: #00FFCC;
+}
+
+.c-00DDAA{
+    background: #00DDAA;
+}
+
+.c-00AA88{
+    background: #00AA88;
+}
+
+.c-008866{
+    background: #008866;
+}
+
+.c-99FFFF{
+    background: #99FFFF;
+}
+
+.c-66FFFF{
+    background: #66FFFF;
+}
+
+.c-33FFFF{
+    background: #33FFFF;
+}
+
+.c-00FFFF{
+    background: #00FFFF;
+}
+
+.c-00DDDD{
+    background: #00DDDD;
+}
+
+.c-00AAAA{
+    background: #00AAAA;
+}
+
+.c-008888{
+    background: #008888;
+}
+
+.c-CCEEFF{
+    background: #CCEEFF;
+}
+
+.c-77DDFF{
+    background: #77DDFF;
+}
+
+.c-33CCFF{
+    background: #33CCFF;
+}
+
+.c-00BBFF{
+    background: #00BBFF;
+}
+
+.c-009FCC{
+    background: #009FCC;
+}
+
+.c-0088A8{
+    background: #0088A8;
+}
+
+.c-007799{
+    background: #007799;
+}
+
+.c-CCDDFF{
+    background: #CCDDFF;
+}
+
+.c-99BBFF{
+    background: #99BBFF;
+}
+
+.c-5599FF{
+    background: #5599FF;
+}
+
+.c-0066FF{
+    background: #0066FF;
+}
+
+.c-0044BB{
+    background: #0044BB;
+}
+
+.c-003C9D{
+    background: #003C9D;
+}
+
+.c-003377{
+    background: #003377;
+}
+
+.c-CCCCFF{
+    background: #CCCCFF;
+}
+
+.c-9999FF{
+    background: #9999FF;
+}
+
+.c-5555FF{
+    background: #5555FF;
+}
+
+.c-0000FF{
+    background: #0000FF;
+}
+
+.c-0000CC{
+    background: #0000CC;
+}
+
+.c-0000AA{
+    background: #0000AA;
+}
+
+.c-000088{
+    background: #000088;
+}
+
+.c-CCBBFF{
+    background: #CCBBFF;
+}
+
+.c-9F88FF{
+    background: #9F88FF;
+}
+
+.c-7744FF{
+    background: #7744FF;
+}
+
+.c-5500FF{
+    background: #5500FF;
+}
+
+.c-4400CC{
+    background: #4400CC;
+}
+
+.c-2200AA{
+    background: #2200AA;
+}
+
+.c-220088{
+    background: #220088;
+}
+
+.c-D1BBFF{
+    background: #D1BBFF;
+}
+
+.c-B088FF{
+    background: #B088FF;
+}
+
+.c-9955FF{
+    background: #9955FF;
+}
+
+.c-7700FF{
+    background: #7700FF;
+}
+
+.c-5500DD{
+    background: #5500DD;
+}
+
+.c-4400B3{
+    background: #4400B3;
+}
+
+.c-3A0088{
+    background: #3A0088;
+}
+
+.c-E8CCFF{
+    background: #E8CCFF;
+}
+
+.c-D28EFF{
+    background: #D28EFF;
+}
+
+.c-B94FFF{
+    background: #B94FFF;
+}
+
+.c-9900FF{
+    background: #9900FF;
+}
+
+.c-7700BB{
+    background: #7700BB;
+}
+
+.c-66009D{
+    background: #66009D;
+}
+
+.c-550088{
+    background: #550088;
+}
+
+.c-F0BBFF{
+    background: #F0BBFF;
+}
+
+.c-E38EFF{
+    background: #E38EFF;
+}
+
+.c-E93EFF{
+    background: #E93EFF;
+}
+
+.c-CC00FF{
+    background: #CC00FF;
+}
+
+.c-A500CC{
+    background: #A500CC;
+}
+
+.c-7A0099{
+    background: #7A0099;
+}
+
+.c-660077{
+    background: #660077;
+}
+
+.c-FFB3FF{
+    background: #FFB3FF;
+}
+
+.c-FF77FF{
+    background: #FF77FF;
+}
+
+.c-FF3EFF{
+    background: #FF3EFF;
+}
+
+.c-FF00FF{
+    background: #FF00FF;
+}
+
+.c-CC00CC{
+    background: #CC00CC;
+}
+
+.c-990099{
+    background: #990099;
+}
+
+.c-770077{
+    background: #770077;
+}
+
