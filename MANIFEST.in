@@ -1,1 +1,2 @@
 recursive-include liststyle/templates *
+recursive-include liststyle/static *
